@@ -48,38 +48,32 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 [AI Blog Generator](https://github.com/rehan-rathod)
-> React.js · OpenAI API · Gemini API · Express
+### 📄 [Resume Builder](https://github.com/rehan-rathod/resume-builder)
+> React.js · Vite · PDF Export · localStorage
 
-- Built a content generation app with **GPT-4o & Gemini 1.5 Flash** with live model switching
-- Implemented **streaming token display** for progressive output rendering
-- Secured API keys via **Express proxy**
+- Modern, real-time **Resume Builder** with **live A4 preview**
+- One-click **PDF export**, dark/light mode toggle
+- **localStorage auto-save** so users never lose progress
+- 🔗 Live Demo: [resume-builder-blush-two.vercel.app](https://resume-builder-blush-two.vercel.app/)
 
 ---
 
-### 🎓 [Campus Event Notify](https://github.com/rehan-rathod/CampusEventNotify)
+### 🔍 [GitHub Profile Finder](https://github.com/rehan-rathod/github-profile-finder)
+> React.js · TypeScript · Vite · Vanilla CSS
+
+- Premium GitHub profile finder with clean, responsive UI
+- Search any GitHub username and view repos, stats & activity
+- 🔗 Live Demo: [github-profile-finder-rosy.vercel.app](https://github-profile-finder-rosy.vercel.app/)
+
+---
+
+### 🎓 [Campus Connect Platform](https://github.com/rehan-rathod/campus-connect-platform)
 > React.js · TypeScript · Tailwind CSS · Express · Drizzle ORM
 
-- Full-stack campus event notification platform
-- Structured across **client, server & shared** folders
-- Deployed on **Replit** · Built with **Vite**
-
----
-
-### 🛍️ [E-Commerce Product Catalog](https://github.com/rehan-rathod)
-> React.js · Sanity CMS · Tailwind CSS
-
-- Product listing with **GROQ queries** & category filtering
-- **Lighthouse Score: 91** on mobile 🚀
-- Cart state with **React Context**
-
----
-
-### 📊 [Web Performance Analyzer](https://github.com/rehan-rathod)
-> React.js · Google PageSpeed Insights API
-
-- Displays **Core Web Vitals** (LCP, FID, CLS) with pass/fail indicators
-- **localStorage caching** for optimized API usage
+- Full-stack campus event & notification platform
+- Dynamic event listings with **Leaflet maps**, real-time **RSVP/waitlists**
+- **QR check-ins** and attendance analytics
+- Structured across **client, server & shared** folders · Built with **Vite**
 
 ---
 
